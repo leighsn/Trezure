@@ -1,0 +1,4 @@
+# Trezure
+## Let your trash become someone else's trezure
+
+A location-based stuff-sharing application.
